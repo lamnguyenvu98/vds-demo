@@ -1,0 +1,2 @@
+/home/pep/Drive/PCLOUD/Projects/pyqt-multicamera/video1.avi
+/home/pep/Drive/PCLOUD/Projects/pyqt-multicamera/video10.avi
